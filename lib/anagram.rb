@@ -10,7 +10,7 @@ def self.all
   @@all
 end
 
-def match(word)
+def match
   @word.match do |word|
   end
 end
