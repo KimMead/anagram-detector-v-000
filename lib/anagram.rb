@@ -7,7 +7,7 @@ def initialize(word)
 end
 
 def self.all
-  @@all 
+  @@all
 end
 
 def match(word)
