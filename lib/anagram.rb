@@ -11,7 +11,5 @@ def self.all
 end
 
 def anagram_match
-  @word.split.match do |word|
-  end.flatten.uniq
-end
+
 end
