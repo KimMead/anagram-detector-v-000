@@ -7,5 +7,6 @@ end
 
 def match(word)
   @word.all.match do |word|
-  end 
+  end
+end
 end
