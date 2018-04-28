@@ -1,2 +1,2 @@
 class Anagram
-end 
+end
