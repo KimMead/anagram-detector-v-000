@@ -11,7 +11,7 @@ def self.all
 end
 
 def match(word)
-  self.all.match do |word|
+  @word.match do |word|
   end
 end
 end
